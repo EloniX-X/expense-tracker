@@ -4,4 +4,4 @@ I made this project since I thought it would be a fun way to use graphs in somet
 <img width="1440" alt="Screen Shot 2023-10-01 at 9 29 07 PM" src="https://github.com/EloniX-X/expense-tracker/assets/62807180/8f49cf8b-2951-4189-bfe7-6fb3d57c88c7">
 
 thank you,
-Elon
+Eloni
